@@ -1,3 +1,7 @@
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
+
 def test_create_sentence():
     # Import and get the sentence from student's code
     from assignment import num_str_1, num_str_2, num_str_3, word_1, word_2, word_3
