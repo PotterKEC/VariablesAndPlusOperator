@@ -19,6 +19,7 @@ num_str_3 = "7"       # A string containing a number (you might not need this!)
 word_1 = "robots"     # A word
 word_2 = "built"      # A word
 word_3 = "today"      # A word
+word_4 = "were"
 ```
 
 ### Rules
